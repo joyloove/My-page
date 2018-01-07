@@ -2,7 +2,7 @@ window.onload = function () {
 
   var iconMenu = document.getElementById('show-menu');
   var navMenu = document.getElementById('nav-menu');
-  
+
   iconMenu.addEventListener('click', showMenu);
   document.addEventListener('click', hideMenu);
 

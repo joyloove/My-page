@@ -386,7 +386,7 @@ button:hover {
   background-color: #ffb6c1;
 }
 
-button i {
+button span {
   vertical-align: middle;
   color: #433f40;
 }
